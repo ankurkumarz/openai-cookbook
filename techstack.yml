@@ -1,7 +1,8 @@
 repo_name: ankurkumarz/openai-cookbook
 report_id: 4b83420aec681bd574d8486c4bb51f86
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-14T15:16:08+00:00'
+timestamp: '2024-01-05T08:24:53+00:00'
 requested_by: ted-at-openai
 provider: github
 branch: main
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/ankurkumarz/openai-cookbook
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/ankurkumarz/openai-cookbook
   detection_source: Repo Metadata
 - name: Jinja
   description: Full featured template engine for Python
@@ -49,6 +52,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/ankurkumarz/openai-cookbook
   detection_source: Repo Metadata
 - name: TypeScript
   description: A superset of JavaScript that compiles to clean JavaScript output
@@ -59,6 +63,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/ankurkumarz/openai-cookbook
   detection_source: Repo Metadata
 - name: ".NET Core"
   description: An Open Source, General-Purpose Development Platform Maintained by
@@ -70,6 +75,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/6403/default_91fc1f0ee315262794273aa1387eaf8fed8436e6.png
+  detection_source_url: https://github.com/ankurkumarz/openai-cookbook/blob/main/examples/vector_databases/milvus/docker-compose.yaml
   detection_source: examples/vector_databases/milvus/docker-compose.yaml
   last_updated_by: Filip Haltmayer
   last_updated_on: 2023-02-15 19:49:27.000000000 Z
@@ -81,6 +87,7 @@ tools:
   category: Languages & Frameworks
   sub_category: CSS Pre-processors / Extensions
   image_url: https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png
+  detection_source_url: https://github.com/ankurkumarz/openai-cookbook/blob/main/apps/file-q-and-a/nextjs-with-flask-server/client/package.json
   detection_source: apps/file-q-and-a/nextjs-with-flask-server/client/package.json
   last_updated_by: isafulf
   last_updated_on: 2023-02-12 00:29:30.000000000 Z
@@ -92,6 +99,7 @@ tools:
   category: Libraries
   sub_category: Charting Libraries
   image_url: https://img.stackshare.io/service/2993/2DZC4KaA_400x400.jpg
+  detection_source_url: https://github.com/ankurkumarz/openai-cookbook/blob/main/apps/web-crawl-q-and-a/requirements.txt
   detection_source: apps/web-crawl-q-and-a/requirements.txt
   last_updated_by: Logan Kilpatrick
   last_updated_on: 2023-02-03 21:42:19.000000000 Z
@@ -117,6 +125,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/ankurkumarz/openai-cookbook/blob/main/apps/file-q-and-a/nextjs-with-flask-server/client/package.json
   detection_source: apps/file-q-and-a/nextjs-with-flask-server/client/package.json
   last_updated_by: isafulf
   last_updated_on: 2023-02-12 00:29:30.000000000 Z
@@ -129,6 +138,7 @@ tools:
   category: Languages & Frameworks
   sub_category: CSS Pre-processors / Extensions
   image_url: https://img.stackshare.io/service/3339/rlFcjEdI.png
+  detection_source_url: https://github.com/ankurkumarz/openai-cookbook/blob/main/apps/file-q-and-a/nextjs-with-flask-server/client/package.json
   detection_source: apps/file-q-and-a/nextjs-with-flask-server/client/package.json
   last_updated_by: isafulf
   last_updated_on: 2023-02-12 00:29:30.000000000 Z
@@ -155,6 +165,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Front-End Frameworks
   image_url: https://img.stackshare.io/service/8158/default_660b7c41c3ba489cb581eec89c04655404258c19.png
+  detection_source_url: https://github.com/ankurkumarz/openai-cookbook/blob/main/apps/file-q-and-a/nextjs-with-flask-server/client/package.json
   detection_source: apps/file-q-and-a/nextjs-with-flask-server/client/package.json
   last_updated_by: isafulf
   last_updated_on: 2023-02-12 00:29:30.000000000 Z
@@ -168,6 +179,7 @@ tools:
   category: Data Stores
   sub_category: Database Tools
   image_url: https://img.stackshare.io/service/11593/no-img.png
+  detection_source_url: https://github.com/ankurkumarz/openai-cookbook/blob/main/examples/vector_databases/milvus/docker-compose.yaml
   detection_source: examples/vector_databases/milvus/docker-compose.yaml
   last_updated_by: Filip Haltmayer
   last_updated_on: 2023-02-15 19:49:27.000000000 Z
@@ -180,6 +192,7 @@ tools:
   category: Data Stores
   sub_category: Cloud Storage
   image_url: https://img.stackshare.io/service/4485/gTawkyAA.png
+  detection_source_url: https://github.com/ankurkumarz/openai-cookbook/blob/main/examples/vector_databases/milvus/docker-compose.yaml
   detection_source: examples/vector_databases/milvus/docker-compose.yaml
   last_updated_by: Filip Haltmayer
   last_updated_on: 2023-02-15 19:49:27.000000000 Z
@@ -205,6 +218,7 @@ tools:
   category: Data Stores
   sub_category: Database Tools
   image_url: https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png
+  detection_source_url: https://github.com/ankurkumarz/openai-cookbook/blob/main/apps/chatbot-kickstarter/requirements.txt
   detection_source: apps/chatbot-kickstarter/requirements.txt
   last_updated_by: colin-openai
   last_updated_on: 2023-03-10 10:45:48.000000000 Z
@@ -217,6 +231,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Container Tools
   image_url: https://img.stackshare.io/service/3136/docker-compose.png
+  detection_source_url: https://github.com/ankurkumarz/openai-cookbook/blob/main/examples/vector_databases/weaviate/docker-compose.yml
   detection_source: examples/vector_databases/weaviate/docker-compose.yml
   last_updated_by: colin-openai
   last_updated_on: 2023-02-13 18:33:00.000000000 Z
@@ -229,6 +244,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/ankurkumarz/openai-cookbook/blob/main/apps/file-q-and-a/nextjs-with-flask-server/client/package.json
   detection_source: apps/file-q-and-a/nextjs-with-flask-server/client/package.json
   last_updated_by: isafulf
   last_updated_on: 2023-02-12 00:29:30.000000000 Z
@@ -240,6 +256,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ankurkumarz/openai-cookbook
   detection_source: Repo Metadata
 - name: PyPI
   description: A repository of software for the Python programming language
@@ -249,6 +266,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Hosted Package Repository
   image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/ankurkumarz/openai-cookbook/blob/main/apps/web-crawl-q-and-a/requirements.txt
   detection_source: apps/web-crawl-q-and-a/requirements.txt
   last_updated_by: Logan Kilpatrick
   last_updated_on: 2023-02-03 21:42:19.000000000 Z
@@ -262,6 +280,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Open Source Service Discovery
   image_url: https://img.stackshare.io/service/1721/etcd.png
+  detection_source_url: https://github.com/ankurkumarz/openai-cookbook/blob/main/examples/vector_databases/milvus/docker-compose.yaml
   detection_source: examples/vector_databases/milvus/docker-compose.yaml
   last_updated_by: Filip Haltmayer
   last_updated_on: 2023-02-15 19:49:27.000000000 Z
@@ -273,6 +292,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/ankurkumarz/openai-cookbook/blob/main/apps/file-q-and-a/nextjs-with-flask-server/client/package.json
   detection_source: apps/file-q-and-a/nextjs-with-flask-server/client/package.json
   last_updated_by: isafulf
   last_updated_on: 2023-02-12 00:29:30.000000000 Z
@@ -284,6 +304,7 @@ tools:
   category: Assets and Media
   sub_category: Image Processing and Management
   image_url: https://img.stackshare.io/service/2375/default_1f67b0ca7416a9f52beb655f90b5602d5ef74b75.jpg
+  detection_source_url: https://github.com/ankurkumarz/openai-cookbook/blob/main/apps/web-crawl-q-and-a/requirements.txt
   detection_source: apps/web-crawl-q-and-a/requirements.txt
   last_updated_by: Logan Kilpatrick
   last_updated_on: 2023-02-03 21:42:19.000000000 Z
@@ -295,6 +316,7 @@ tools:
   category: Assets and Media
   sub_category: File Transfer
   image_url: https://img.stackshare.io/service/6552/curl-logo.png
+  detection_source_url: https://github.com/ankurkumarz/openai-cookbook/blob/main/examples/vector_databases/milvus/docker-compose.yaml
   detection_source: examples/vector_databases/milvus/docker-compose.yaml
   last_updated_by: Filip Haltmayer
   last_updated_on: 2023-02-15 19:49:27.000000000 Z
@@ -306,6 +328,7 @@ tools:
   category: Libraries
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/service/3649/default_01276c9c0c79674b16f9b29216bd8cc7ce9b894d.png
+  detection_source_url: https://github.com/ankurkumarz/openai-cookbook/blob/main/examples/vector_databases/milvus/docker-compose.yaml
   detection_source: examples/vector_databases/milvus/docker-compose.yaml
   last_updated_by: Filip Haltmayer
   last_updated_on: 2023-02-15 19:49:27.000000000 Z
@@ -317,6 +340,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Shells
   image_url: https://img.stackshare.io/service/4477/820a0bb9a44fe5a1d640993ab1e6fd84_400x400.png
+  detection_source_url: https://github.com/ankurkumarz/openai-cookbook/blob/main/apps/web-crawl-q-and-a/requirements.txt
   detection_source: apps/web-crawl-q-and-a/requirements.txt
   last_updated_by: Logan Kilpatrick
   last_updated_on: 2023-02-03 21:42:19.000000000 Z
@@ -329,6 +353,7 @@ tools:
   category: Application Utilities
   sub_category: Data Science Notebooks
   image_url: https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg
+  detection_source_url: https://github.com/ankurkumarz/openai-cookbook
   detection_source: Repo Metadata
 - name: LangChain
   description: Build AI apps with LLMs through composability
@@ -338,6 +363,7 @@ tools:
   category: Communications
   sub_category: Large Language Model Tools
   image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source_url: https://github.com/ankurkumarz/openai-cookbook/blob/main/apps/chatbot-kickstarter/requirements.txt
   detection_source: apps/chatbot-kickstarter/requirements.txt
   last_updated_by: colin-openai
   last_updated_on: 2023-03-10 10:45:48.000000000 Z
@@ -363,6 +389,7 @@ tools:
   category: Application Utilities
   sub_category: Search Engines
   image_url: https://img.stackshare.io/service/11462/UYESE3g6_400x400.jpg
+  detection_source_url: https://github.com/ankurkumarz/openai-cookbook/blob/main/examples/vector_databases/milvus/docker-compose.yaml
   detection_source: examples/vector_databases/milvus/docker-compose.yaml
   last_updated_by: Filip Haltmayer
   last_updated_on: 2023-02-15 19:49:27.000000000 Z
@@ -414,6 +441,7 @@ tools:
   category: Application Utilities
   sub_category: Search Engines
   image_url: https://img.stackshare.io/service/48298/default_d234d62c02c7862d4384fbbf0bcbb94ff723df73.jpg
+  detection_source_url: https://github.com/ankurkumarz/openai-cookbook/blob/main/examples/vector_databases/qdrant/docker-compose.yaml
   detection_source: examples/vector_databases/qdrant/docker-compose.yaml
   last_updated_by: Kacper Łukawski
   last_updated_on: 2023-02-16 09:50:24.000000000 Z
@@ -440,6 +468,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/ankurkumarz/openai-cookbook
   detection_source: Repo Metadata
 - name: Streamlit
   description: A Python app framework built specifically for Machine Learning and
@@ -451,6 +480,7 @@ tools:
   category: Application Utilities
   sub_category: Machine Learning Tools
   image_url: https://img.stackshare.io/service/11393/default_67e251b5860795095fe91618cf3ef8d09257469a.png
+  detection_source_url: https://github.com/ankurkumarz/openai-cookbook/blob/main/apps/chatbot-kickstarter/requirements.txt
   detection_source: apps/chatbot-kickstarter/requirements.txt
   last_updated_by: colin-openai
   last_updated_on: 2023-03-10 10:45:48.000000000 Z
@@ -463,6 +493,7 @@ tools:
   category: Application Utilities
   sub_category: Search as a Service
   image_url: https://img.stackshare.io/service/11330/typesense_medium.png
+  detection_source_url: https://github.com/ankurkumarz/openai-cookbook/blob/main/examples/vector_databases/typesense/docker-compose.yml
   detection_source: examples/vector_databases/typesense/docker-compose.yml
   last_updated_by: Jason Bosco
   last_updated_on: 2023-03-28 22:37:41.000000000 Z
@@ -474,6 +505,7 @@ tools:
   category: Application Utilities
   sub_category: Search Engines
   image_url: https://img.stackshare.io/service/48640/default_e449cca14683994294f8d6a9d2d22791e7e8448b.jpg
+  detection_source_url: https://github.com/ankurkumarz/openai-cookbook/blob/main/examples/vector_databases/weaviate/docker-compose.yml
   detection_source: examples/vector_databases/weaviate/docker-compose.yml
   last_updated_by: colin-openai
   last_updated_on: 2023-02-13 18:33:00.000000000 Z
@@ -1267,6 +1299,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20367/default_f96848c380cbdcec99ab678e027c29229da52205.png
+  detection_source_url: https://github.com/ankurkumarz/openai-cookbook/blob/main/apps/web-crawl-q-and-a/requirements.txt
   detection_source: apps/web-crawl-q-and-a/requirements.txt
   last_updated_by: Logan Kilpatrick
   last_updated_on: 2023-02-03 21:42:19.000000000 Z
