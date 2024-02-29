@@ -3,43 +3,43 @@
 ## Tech Stack
 ankurkumarz/openai-cookbook is built on the following main stack:
 
-- [Python](https://www.python.org) – Languages
-- [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
-- [React](https://reactjs.org/) – Javascript UI Libraries
-- [Redis](http://redis.io/) – In-Memory Databases
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- [TypeScript](http://www.typescriptlang.org) – Languages
-- [etcd](https://github.com/coreos/etcd) – Open Source Service Discovery
-- [NumPy](http://www.numpy.org/) – Data Science Tools
-- [Autoprefixer](https://github.com/postcss/autoprefixer) – CSS Pre-processors / Extensions
 - [Jinja](https://palletsprojects.com/p/jinja/) – Templating Languages & Extensions
-- [Pillow](https://python-pillow.github.io/) – Image Processing and Management
-- [Lodash](https://lodash.com) – Javascript Utilities & Libraries
-- [Matplotlib](http://matplotlib.org) – Charting Libraries
-- [Docker Compose](https://github.com/docker/compose) – Container Tools
-- [SciPy](http://www.scipy.org) – Data Science Tools
-- [ESLint](http://eslint.org/) – Code Review
-- [PostCSS](https://github.com/postcss/postcss) – CSS Pre-processors / Extensions
-- [Alt](https://alt.js.org/) – Javascript Utilities & Libraries
-- [Jupyter](http://jupyter.org) – Data Science Notebooks
-- [IPython](http://ipython.org/index.html) – Shells
-- [Minio](https://minio.io/) – Cloud Storage
-- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- [axios](https://github.com/mzabriskie/axios) – Javascript Utilities & Libraries
-- [Next.js](https://nextjs.org/) – Frameworks (Full Stack)
+- [Python](https://www.python.org) – Languages
+- [TypeScript](http://www.typescriptlang.org) – Languages
 - [.NET Core](https://docs.microsoft.com/en-us/dotnet/core/) – Frameworks (Full Stack)
-- [cURL](http://curl.haxx.se/) – File Transfer
+- [Autoprefixer](https://github.com/postcss/autoprefixer) – CSS Pre-processors / Extensions
+- [Matplotlib](http://matplotlib.org) – Charting Libraries
+- [Next.js](https://nextjs.org/) – Frameworks (Full Stack)
+- [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
+- [PostCSS](https://github.com/postcss/postcss) – CSS Pre-processors / Extensions
+- [React](https://reactjs.org/) – Javascript UI Libraries
 - [Tailwind CSS](https://tailwindcss.com) – Front-End Frameworks
-- [Typesense](https://typesense.org) – Search as a Service
-- [Streamlit](https://streamlit.io) – Machine Learning Tools
-- [Milvus](https://milvus.io/) – Search Engines
 - [DB](https://github.com/infostreams/db) – Database Tools
-- [Qdrant](https://qdrant.tech/) – Search Engines
-- [Weaviate](https://weaviate.io/) – Search Engines
-- [Pinecone](https://www.pinecone.io/) – Search as a Service
-- [OpenAI](https://openai.com/) – Large Language Models
-- [LangChain](https://github.com/hwchase17/langchain) – Large Language Model Tools
+- [Milvus](https://milvus.io/) – Vector Databases
+- [Minio](https://minio.io/) – Cloud Storage
+- [Redis](http://redis.io/) – In-Memory Databases
 - [pgvector](https://github.com/pgvector/pgvector/) – Database Tools
+- [Docker Compose](https://github.com/docker/compose) – Container Tools
+- [ESLint](http://eslint.org/) – Code Review
+- [etcd](https://github.com/coreos/etcd) – Open Source Service Discovery
+- [Pillow](https://python-pillow.github.io/) – Image Processing and Management
+- [cURL](http://curl.haxx.se/) – File Transfer
+- [Alt](https://alt.js.org/) – Javascript Utilities & Libraries
+- [IPython](http://ipython.org/index.html) – Shells
+- [Jupyter](http://jupyter.org) – Data Science Notebooks
+- [LangChain](https://github.com/hwchase17/langchain) – Large Language Model Tools
+- [Lodash](https://lodash.com) – Javascript Utilities & Libraries
+- [NumPy](http://www.numpy.org/) – Data Science Tools
+- [OpenAI](https://openai.com/) – Large Language Models
+- [Pinecone](https://www.pinecone.io/) – Search as a Service
+- [Qdrant](https://qdrant.tech/) – Search Engines
+- [SciPy](http://www.scipy.org) – Data Science Tools
+- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
+- [Streamlit](https://streamlit.io) – Machine Learning Tools
+- [Typesense](https://typesense.org) – Search as a Service
+- [Weaviate](https://weaviate.io/) – Search Engines
+- [axios](https://github.com/mzabriskie/axios) – Javascript Utilities & Libraries
 
 Full tech stack [here](/techstack.md)
 
@@ -49,43 +49,43 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 ankurkumarz/openai-cookbook is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/1031/default_cbce472cd134adc6688572f999e9122b9657d4ba.png' alt='Redis'/> [Redis](http://redis.io/) – In-Memory Databases
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'/> [TypeScript](http://www.typescriptlang.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1721/etcd.png' alt='etcd'/> [etcd](https://github.com/coreos/etcd) – Open Source Service Discovery
-- <img width='25' height='25' src='https://img.stackshare.io/service/2179/default_332f874a2edb2686f578aa6389313efcea1eec41.png' alt='NumPy'/> [NumPy](http://www.numpy.org/) – Data Science Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png' alt='Autoprefixer'/> [Autoprefixer](https://github.com/postcss/autoprefixer) – CSS Pre-processors / Extensions
 - <img width='25' height='25' src='https://img.stackshare.io/service/2303/New_Project__20_.png' alt='Jinja'/> [Jinja](https://palletsprojects.com/p/jinja/) – Templating Languages & Extensions
-- <img width='25' height='25' src='https://img.stackshare.io/service/2375/default_1f67b0ca7416a9f52beb655f90b5602d5ef74b75.jpg' alt='Pillow'/> [Pillow](https://python-pillow.github.io/) – Image Processing and Management
-- <img width='25' height='25' src='https://img.stackshare.io/service/2438/lodash.png' alt='Lodash'/> [Lodash](https://lodash.com) – Javascript Utilities & Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/2993/2DZC4KaA_400x400.jpg' alt='Matplotlib'/> [Matplotlib](http://matplotlib.org) – Charting Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/3136/docker-compose.png' alt='Docker Compose'/> [Docker Compose](https://github.com/docker/compose) – Container Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/3303/scipyshiny_small.png' alt='SciPy'/> [SciPy](http://www.scipy.org) – Data Science Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
-- <img width='25' height='25' src='https://img.stackshare.io/service/3339/rlFcjEdI.png' alt='PostCSS'/> [PostCSS](https://github.com/postcss/postcss) – CSS Pre-processors / Extensions
-- <img width='25' height='25' src='https://img.stackshare.io/service/3649/default_01276c9c0c79674b16f9b29216bd8cc7ce9b894d.png' alt='Alt'/> [Alt](https://alt.js.org/) – Javascript Utilities & Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg' alt='Jupyter'/> [Jupyter](http://jupyter.org) – Data Science Notebooks
-- <img width='25' height='25' src='https://img.stackshare.io/service/4477/820a0bb9a44fe5a1d640993ab1e6fd84_400x400.png' alt='IPython'/> [IPython](http://ipython.org/index.html) – Shells
-- <img width='25' height='25' src='https://img.stackshare.io/service/4485/gTawkyAA.png' alt='Minio'/> [Minio](https://minio.io/) – Cloud Storage
-- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='axios'/> [axios](https://github.com/mzabriskie/axios) – Javascript Utilities & Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/5936/nextjs.png' alt='Next.js'/> [Next.js](https://nextjs.org/) – Frameworks (Full Stack)
+- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'/> [TypeScript](http://www.typescriptlang.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/6403/default_91fc1f0ee315262794273aa1387eaf8fed8436e6.png' alt='.NET Core'/> [.NET Core](https://docs.microsoft.com/en-us/dotnet/core/) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/6552/curl-logo.png' alt='cURL'/> [cURL](http://curl.haxx.se/) – File Transfer
+- <img width='25' height='25' src='https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png' alt='Autoprefixer'/> [Autoprefixer](https://github.com/postcss/autoprefixer) – CSS Pre-processors / Extensions
+- <img width='25' height='25' src='https://img.stackshare.io/service/2993/2DZC4KaA_400x400.jpg' alt='Matplotlib'/> [Matplotlib](http://matplotlib.org) – Charting Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/5936/nextjs.png' alt='Next.js'/> [Next.js](https://nextjs.org/) – Frameworks (Full Stack)
+- <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
+- <img width='25' height='25' src='https://img.stackshare.io/service/3339/rlFcjEdI.png' alt='PostCSS'/> [PostCSS](https://github.com/postcss/postcss) – CSS Pre-processors / Extensions
+- <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/8158/default_660b7c41c3ba489cb581eec89c04655404258c19.png' alt='Tailwind CSS'/> [Tailwind CSS](https://tailwindcss.com) – Front-End Frameworks
-- <img width='25' height='25' src='https://img.stackshare.io/service/11330/typesense_medium.png' alt='Typesense'/> [Typesense](https://typesense.org) – Search as a Service
-- <img width='25' height='25' src='https://img.stackshare.io/service/11393/default_67e251b5860795095fe91618cf3ef8d09257469a.png' alt='Streamlit'/> [Streamlit](https://streamlit.io) – Machine Learning Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/11462/UYESE3g6_400x400.jpg' alt='Milvus'/> [Milvus](https://milvus.io/) – Search Engines
 - <img width='25' height='25' src='https://img.stackshare.io/service/11593/no-img.png' alt='DB'/> [DB](https://github.com/infostreams/db) – Database Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/48298/default_d234d62c02c7862d4384fbbf0bcbb94ff723df73.jpg' alt='Qdrant'/> [Qdrant](https://qdrant.tech/) – Search Engines
-- <img width='25' height='25' src='https://img.stackshare.io/service/48640/default_e449cca14683994294f8d6a9d2d22791e7e8448b.jpg' alt='Weaviate'/> [Weaviate](https://weaviate.io/) – Search Engines
-- <img width='25' height='25' src='https://img.stackshare.io/service/48784/default_376332a8eee1cdbb0546ca1aaed0b8a7f4d673d7.png' alt='Pinecone'/> [Pinecone](https://www.pinecone.io/) – Search as a Service
-- <img width='25' height='25' src='https://img.stackshare.io/service/48786/default_8b1119bcbb159cebebc2f6cfc9cd2e359b169d22.jpg' alt='OpenAI'/> [OpenAI](https://openai.com/) – Large Language Models
-- <img width='25' height='25' src='https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg' alt='LangChain'/> [LangChain](https://github.com/hwchase17/langchain) – Large Language Model Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/11462/UYESE3g6_400x400.jpg' alt='Milvus'/> [Milvus](https://milvus.io/) – Vector Databases
+- <img width='25' height='25' src='https://img.stackshare.io/service/4485/gTawkyAA.png' alt='Minio'/> [Minio](https://minio.io/) – Cloud Storage
+- <img width='25' height='25' src='https://img.stackshare.io/service/1031/default_cbce472cd134adc6688572f999e9122b9657d4ba.png' alt='Redis'/> [Redis](http://redis.io/) – In-Memory Databases
 - <img width='25' height='25' src='https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png' alt='pgvector'/> [pgvector](https://github.com/pgvector/pgvector/) – Database Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/3136/docker-compose.png' alt='Docker Compose'/> [Docker Compose](https://github.com/docker/compose) – Container Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/service/1721/etcd.png' alt='etcd'/> [etcd](https://github.com/coreos/etcd) – Open Source Service Discovery
+- <img width='25' height='25' src='https://img.stackshare.io/service/2375/default_1f67b0ca7416a9f52beb655f90b5602d5ef74b75.jpg' alt='Pillow'/> [Pillow](https://python-pillow.github.io/) – Image Processing and Management
+- <img width='25' height='25' src='https://img.stackshare.io/service/6552/curl-logo.png' alt='cURL'/> [cURL](http://curl.haxx.se/) – File Transfer
+- <img width='25' height='25' src='https://img.stackshare.io/service/3649/default_01276c9c0c79674b16f9b29216bd8cc7ce9b894d.png' alt='Alt'/> [Alt](https://alt.js.org/) – Javascript Utilities & Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/4477/820a0bb9a44fe5a1d640993ab1e6fd84_400x400.png' alt='IPython'/> [IPython](http://ipython.org/index.html) – Shells
+- <img width='25' height='25' src='https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg' alt='Jupyter'/> [Jupyter](http://jupyter.org) – Data Science Notebooks
+- <img width='25' height='25' src='https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg' alt='LangChain'/> [LangChain](https://github.com/hwchase17/langchain) – Large Language Model Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/2438/lodash.png' alt='Lodash'/> [Lodash](https://lodash.com) – Javascript Utilities & Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/2179/default_332f874a2edb2686f578aa6389313efcea1eec41.png' alt='NumPy'/> [NumPy](http://www.numpy.org/) – Data Science Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/48786/default_8b1119bcbb159cebebc2f6cfc9cd2e359b169d22.jpg' alt='OpenAI'/> [OpenAI](https://openai.com/) – Large Language Models
+- <img width='25' height='25' src='https://img.stackshare.io/service/48784/default_376332a8eee1cdbb0546ca1aaed0b8a7f4d673d7.png' alt='Pinecone'/> [Pinecone](https://www.pinecone.io/) – Search as a Service
+- <img width='25' height='25' src='https://img.stackshare.io/service/48298/default_d234d62c02c7862d4384fbbf0bcbb94ff723df73.jpg' alt='Qdrant'/> [Qdrant](https://qdrant.tech/) – Search Engines
+- <img width='25' height='25' src='https://img.stackshare.io/service/3303/scipyshiny_small.png' alt='SciPy'/> [SciPy](http://www.scipy.org) – Data Science Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
+- <img width='25' height='25' src='https://img.stackshare.io/service/11393/default_67e251b5860795095fe91618cf3ef8d09257469a.png' alt='Streamlit'/> [Streamlit](https://streamlit.io) – Machine Learning Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/11330/typesense_medium.png' alt='Typesense'/> [Typesense](https://typesense.org) – Search as a Service
+- <img width='25' height='25' src='https://img.stackshare.io/service/48640/default_e449cca14683994294f8d6a9d2d22791e7e8448b.jpg' alt='Weaviate'/> [Weaviate](https://weaviate.io/) – Search Engines
+- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='axios'/> [axios](https://github.com/mzabriskie/axios) – Javascript Utilities & Libraries
 
 Full tech stack [here](/techstack.md)
 
@@ -96,7 +96,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [ankurkumarz/openai-cookbook](https://github.com/ankurkumarz/openai-cookbook)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|109<br/>Tools used|01/05/24 <br/>Report generated|
+|109<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -214,12 +214,20 @@ Full tech stack [here](/techstack.md)
 </tr>
 </table>
 
-## <img src='https://img.stackshare.io/databases.svg'/> Data (4)
+## <img src='https://img.stackshare.io/databases.svg'/> Data (5)
 <table><tr>
   <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/11593/no-img.png' alt='DB'>
   <br>
   <sub><a href="https://github.com/infostreams/db">DB</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/11462/UYESE3g6_400x400.jpg' alt='Milvus'>
+  <br>
+  <sub><a href="https://milvus.io/">Milvus</a></sub>
   <br>
   <sub></sub>
 </td>
@@ -325,7 +333,7 @@ Full tech stack [here](/techstack.md)
 </tr>
 </table>
 
-## Other (16)
+## Other (15)
 <table><tr>
   <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/3649/default_01276c9c0c79674b16f9b29216bd8cc7ce9b894d.png' alt='Alt'>
@@ -368,14 +376,6 @@ Full tech stack [here](/techstack.md)
 </td>
 
 <td align='center'>
-  <img width='36' height='36' src='https://img.stackshare.io/service/11462/UYESE3g6_400x400.jpg' alt='Milvus'>
-  <br>
-  <sub><a href="https://milvus.io/">Milvus</a></sub>
-  <br>
-  <sub></sub>
-</td>
-
-<td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/2179/default_332f874a2edb2686f578aa6389313efcea1eec41.png' alt='NumPy'>
   <br>
   <sub><a href="http://www.numpy.org/">NumPy</a></sub>
@@ -391,9 +391,7 @@ Full tech stack [here](/techstack.md)
   <sub>v3.1.0</sub>
 </td>
 
-</tr>
-<tr>
-  <td align='center'>
+<td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/48784/default_376332a8eee1cdbb0546ca1aaed0b8a7f4d673d7.png' alt='Pinecone'>
   <br>
   <sub><a href="https://www.pinecone.io/">Pinecone</a></sub>
@@ -401,7 +399,9 @@ Full tech stack [here](/techstack.md)
   <sub>v2.0.13</sub>
 </td>
 
-<td align='center'>
+</tr>
+<tr>
+  <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/48298/default_d234d62c02c7862d4384fbbf0bcbb94ff723df73.jpg' alt='Qdrant'>
   <br>
   <sub><a href="https://qdrant.tech/">Qdrant</a></sub>
@@ -471,7 +471,7 @@ Full tech stack [here](/techstack.md)
 |[PyPDF2](https://pypi.org/project/PyPDF2)|v2.10.4|04/03/23|isafulf |Other|[CVE-2023-36464](https://github.com/advisories/GHSA-4vvm-4w3v-6mr8) (Moderate)|
 |[PyYAML](https://pypi.org/project/PyYAML)|v6.0|04/03/23|isafulf |MIT|N/A|
 |[Pygments](https://pypi.org/project/Pygments)|v2.14.0|02/03/23|Logan Kilpatrick |BSD-3-Clause|[CVE-2022-40896](https://github.com/advisories/GHSA-mrwq-x4v8-fh7p) (Moderate)|
-|[aiohttp](https://pypi.org/project/aiohttp)|v3.8.3|02/03/23|Logan Kilpatrick |Apache-2.0|[CVE-2023-49081](https://github.com/advisories/GHSA-q3qx-c6g2-7pw2) (High)<br/>[](https://github.com/advisories/GHSA-pjjw-qhg8-p2p9) (Moderate)<br/>[CVE-2023-49082](https://github.com/advisories/GHSA-qvrw-v9rv-5rjx) (Moderate)<br/>[CVE-2023-47627](https://github.com/advisories/GHSA-gfw2-4jvh-wgfg) (Moderate)<br/>[CVE-2023-37276](https://github.com/advisories/GHSA-45c4-8wx5-qw6w) (Moderate)|
+|[aiohttp](https://pypi.org/project/aiohttp)|v3.8.3|02/03/23|Logan Kilpatrick |Apache-2.0|[CVE-2023-49081](https://github.com/advisories/GHSA-q3qx-c6g2-7pw2) (High)<br/>[CVE-2024-23334](https://github.com/advisories/GHSA-5h86-8mv2-jq9f) (Moderate)<br/>[CVE-2023-47627](https://github.com/advisories/GHSA-gfw2-4jvh-wgfg) (Moderate)<br/>[](https://github.com/advisories/GHSA-pjjw-qhg8-p2p9) (Moderate)<br/>[CVE-2023-49082](https://github.com/advisories/GHSA-qvrw-v9rv-5rjx) (Moderate)<br/>[CVE-2023-37276](https://github.com/advisories/GHSA-45c4-8wx5-qw6w) (Moderate)<br/>[CVE-2024-23829](https://github.com/advisories/GHSA-8qpw-xqxj-h4r2) (Moderate)|
 |[appnope](https://pypi.org/project/appnope)|v0.1.3|02/03/23|Logan Kilpatrick |BSD-3-Clause|N/A|
 |[asttokens](https://pypi.org/project/asttokens)|v2.2.1|02/03/23|Logan Kilpatrick |Apache-2.0|N/A|
 |[async-timeout](https://pypi.org/project/async-timeout)|v4.0.2|02/03/23|Logan Kilpatrick |Apache-2.0|N/A|
@@ -486,7 +486,7 @@ Full tech stack [here](/techstack.md)
 |[entrypoints](https://pypi.org/project/entrypoints)|v0.4|02/03/23|Logan Kilpatrick |MIT|N/A|
 |[executing](https://pypi.org/project/executing)|v1.2.0|02/03/23|Logan Kilpatrick |MIT|N/A|
 |[filelock](https://pypi.org/project/filelock)|v3.9.0|02/03/23|Logan Kilpatrick |Unlicense|N/A|
-|[fonttools](https://pypi.org/project/fonttools)|v4.38.0|02/03/23|Logan Kilpatrick |MIT|N/A|
+|[fonttools](https://pypi.org/project/fonttools)|v4.38.0|02/03/23|Logan Kilpatrick |MIT|[CVE-2023-45139](https://github.com/advisories/GHSA-6673-4983-2vx5) (High)|
 |[huggingface-hub](https://pypi.org/project/huggingface-hub)|v0.11.1|02/03/23|Logan Kilpatrick |N/A|N/A|
 |[idna](https://pypi.org/project/idna)|v3.4|02/03/23|Logan Kilpatrick |BSD-3-Clause|N/A|
 |[ipykernel](https://pypi.org/project/ipykernel)|v6.20.1|03/10/23|colin-openai |BSD-3-Clause|N/A|
@@ -508,7 +508,7 @@ Full tech stack [here](/techstack.md)
 |[prompt-toolkit](https://pypi.org/project/prompt-toolkit)|v3.0.36|02/03/23|Logan Kilpatrick |BSD-3-Clause|N/A|
 |[psutil](https://pypi.org/project/psutil)|v5.9.4|02/03/23|Logan Kilpatrick |BSD-3-Clause|N/A|
 |[ptyprocess](https://pypi.org/project/ptyprocess)|v0.7.0|02/03/23|Logan Kilpatrick |ISC|N/A|
-|[pycryptodomex](https://pypi.org/project/pycryptodomex)|v3.17|02/03/23|Logan Kilpatrick |BSD-3-Clause,Unlicense,Apache-2.0|N/A|
+|[pycryptodomex](https://pypi.org/project/pycryptodomex)|v3.17|02/03/23|Logan Kilpatrick |BSD-3-Clause,Unlicense,Apache-2.0|[CVE-2023-52323](https://github.com/advisories/GHSA-j225-cvw7-qrx7) (Moderate)|
 |[pyparsing](https://pypi.org/project/pyparsing)|v3.0.9|02/03/23|Logan Kilpatrick |MIT|N/A|
 |[python-dateutil](https://pypi.org/project/python-dateutil)|v2.8.2|02/03/23|Logan Kilpatrick |NRL|N/A|
 |[pytz](https://pypi.org/project/pytz)|v2022.7.1|02/03/23|Logan Kilpatrick |MIT|N/A|
