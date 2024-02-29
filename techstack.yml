@@ -2,7 +2,7 @@ repo_name: ankurkumarz/openai-cookbook
 report_id: 4b83420aec681bd574d8486c4bb51f86
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:24:53+00:00'
+timestamp: '2024-02-29T19:02:19+00:00'
 requested_by: ted-at-openai
 provider: github
 branch: main
@@ -104,7 +104,7 @@ tools:
   last_updated_by: Logan Kilpatrick
   last_updated_on: 2023-02-03 21:42:19.000000000 Z
 - name: Next.js
-  description: 'A small framework for server-rendered universal JavaScript apps '
+  description: A small framework for server-rendered universal JavaScript apps
   website_url: https://nextjs.org/
   version: 13.1.2
   open_source: true
@@ -179,6 +179,19 @@ tools:
   category: Data Stores
   sub_category: Database Tools
   image_url: https://img.stackshare.io/service/11593/no-img.png
+  detection_source_url: https://github.com/ankurkumarz/openai-cookbook/blob/main/examples/vector_databases/milvus/docker-compose.yaml
+  detection_source: examples/vector_databases/milvus/docker-compose.yaml
+  last_updated_by: Filip Haltmayer
+  last_updated_on: 2023-02-15 19:49:27.000000000 Z
+- name: Milvus
+  description: An Open Source Vector Similarity Search Engine
+  website_url: https://milvus.io/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Vector Databases
+  image_url: https://img.stackshare.io/service/11462/UYESE3g6_400x400.jpg
   detection_source_url: https://github.com/ankurkumarz/openai-cookbook/blob/main/examples/vector_databases/milvus/docker-compose.yaml
   detection_source: examples/vector_databases/milvus/docker-compose.yaml
   last_updated_by: Filip Haltmayer
@@ -380,19 +393,6 @@ tools:
   detection_source: apps/file-q-and-a/nextjs-with-flask-server/client/package.json
   last_updated_by: isafulf
   last_updated_on: 2023-02-12 00:29:30.000000000 Z
-- name: Milvus
-  description: An Open Source Vector Similarity Search Engine
-  website_url: https://milvus.io/
-  license: Apache-2.0
-  open_source: true
-  hosted_saas: false
-  category: Application Utilities
-  sub_category: Search Engines
-  image_url: https://img.stackshare.io/service/11462/UYESE3g6_400x400.jpg
-  detection_source_url: https://github.com/ankurkumarz/openai-cookbook/blob/main/examples/vector_databases/milvus/docker-compose.yaml
-  detection_source: examples/vector_databases/milvus/docker-compose.yaml
-  last_updated_by: Filip Haltmayer
-  last_updated_on: 2023-02-15 19:49:27.000000000 Z
 - name: NumPy
   description: Fundamental package for scientific computing with Python
   website_url: http://www.numpy.org/
@@ -615,6 +615,18 @@ tools:
     detected_date: Nov 28
     severity: high
     first_patched: 3.9.0
+  - name: aiohttp is vulnerable to directory traversal
+    cve_id: CVE-2024-23334
+    cve_url: https://github.com/advisories/GHSA-5h86-8mv2-jq9f
+    detected_date: Jan 30
+    severity: moderate
+    first_patched: 3.9.2
+  - name: AIOHTTP has problems in HTTP parser (the python one, not llhttp)
+    cve_id: CVE-2023-47627
+    cve_url: https://github.com/advisories/GHSA-gfw2-4jvh-wgfg
+    detected_date: Nov 15
+    severity: moderate
+    first_patched: 3.8.6
   - name: aiohttp has vulnerable dependency that is vulnerable to request smuggling
     cve_id: 
     cve_url: https://github.com/advisories/GHSA-pjjw-qhg8-p2p9
@@ -627,12 +639,6 @@ tools:
     detected_date: Nov 28
     severity: moderate
     first_patched: 3.9.0
-  - name: AIOHTTP has problems in HTTP parser (the python one, not llhttp)
-    cve_id: CVE-2023-47627
-    cve_url: https://github.com/advisories/GHSA-gfw2-4jvh-wgfg
-    detected_date: Nov 15
-    severity: moderate
-    first_patched: 3.8.6
   - name: aiohttp.web.Application vulnerable to HTTP request smuggling via llhttp
       HTTP request parser
     cve_id: CVE-2023-37276
@@ -640,6 +646,13 @@ tools:
     detected_date: Jul 21
     severity: moderate
     first_patched: 3.8.5
+  - name: aiohttp's HTTP parser (the python one, not llhttp) still overly lenient
+      about separators
+    cve_id: CVE-2024-23829
+    cve_url: https://github.com/advisories/GHSA-8qpw-xqxj-h4r2
+    detected_date: Jan 30
+    severity: moderate
+    first_patched: 3.9.2
 - name: appnope
   description: Disable App Nap on OS X 10.9
   package_url: https://pypi.org/project/appnope
@@ -856,6 +869,13 @@ tools:
   detection_source: apps/web-crawl-q-and-a/requirements.txt
   last_updated_by: Logan Kilpatrick
   last_updated_on: 2023-02-03 21:42:19.000000000 Z
+  vulnerabilities:
+  - name: fonttools XML External Entity Injection (XXE) Vulnerability
+    cve_id: CVE-2023-45139
+    cve_url: https://github.com/advisories/GHSA-6673-4983-2vx5
+    detected_date: Jan 10
+    severity: high
+    first_patched: 4.43.0
 - name: huggingface-hub
   description: Client library to download and publish models
   package_url: https://pypi.org/project/huggingface-hub
@@ -1171,6 +1191,13 @@ tools:
   detection_source: apps/web-crawl-q-and-a/requirements.txt
   last_updated_by: Logan Kilpatrick
   last_updated_on: 2023-02-03 21:42:19.000000000 Z
+  vulnerabilities:
+  - name: PyCryptodome and pycryptodomex side-channel leakage for OAEP decryption
+    cve_id: CVE-2023-52323
+    cve_url: https://github.com/advisories/GHSA-j225-cvw7-qrx7
+    detected_date: Jan 6
+    severity: moderate
+    first_patched: 3.19.1
 - name: pyparsing
   description: Python parsing module
   package_url: https://pypi.org/project/pyparsing
